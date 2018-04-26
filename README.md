@@ -1,0 +1,1 @@
+The portfolio website which can be used as the blog. In operating time over the project, flexbox and units of measure of vh, vw, vmin, vmax was used and js, jq.
